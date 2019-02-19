@@ -37,9 +37,10 @@ Github란 Git repository를 업로드 할 수 있는 웹사이트다.
 #### 2.1 README.md 파일
 
 * 이 파일은 프로젝트에 대한 소개와 협력자들에게 유용한 추가 정보(소프트웨어 설치 방법, 코드 사용 방법 등)를 제공한다.
-* 배지(badges)를 통해 프로젝트의 현 상태를 알려주기도 한다.<br>
+* 배지(badges)를 통해 프로젝트의 현 상태를 알려주기도 한다.
 
 * README.md
+
 ![Readme.md](https://dytjq.files.wordpress.com/2019/02/image-10.png?w=660)
 
 #### 2.2 Commit History
