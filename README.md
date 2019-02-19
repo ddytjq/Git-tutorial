@@ -1,4 +1,4 @@
-#Github tutorial
+# Github tutorial
 
 Github 사용에서 가장 기본이 되는 내용을 정리!!
 
@@ -37,10 +37,10 @@ Github란 Git repository를 업로드 할 수 있는 웹사이트다.
 #### 2.1 README.md 파일
 
 * 이 파일은 프로젝트에 대한 소개와 협력자들에게 유용한 추가 정보(소프트웨어 설치 방법, 코드 사용 방법 등)를 제공한다.
-* 배지(badges)를 통해 프로젝트의 현 상태를 알려주기도 한다.
+* 배지(badges)를 통해 프로젝트의 현 상태를 알려주기도 한다.<br>
 
-This image has an empty alt attribute; its file name is image-10.png
-README.md
+* README.md
+![Readme.md](https://dytjq.files.wordpress.com/2019/02/image-10.png?w=660)
 
 #### 2.2 Commit History
 
@@ -187,7 +187,7 @@ Settings를 클릭 후 collaborators를 통해 협력자를 추가하면 된다.
 * Organization을 생성 후 협력자를 프로젝트에 추가를 하여 team을 만들 수 있다.
 * 기본적으로 owners 권한과 team 권한이 있으며, 다른 사람에게 접근권한을 부여하고 싶으면 team을 추가하면 된다.
 
-##6. 참고 자료
+## 6. 참고 자료
 
 * Github를 다른 소프트웨어에 연결이 가능하다. Github API를 다운로드 하여 repository 관련된 많은 작업을 자동화 할 수 있다.
 * Git repository 관리는 github가 제공하는 GUI를 통해 쉽게 관리가 가능하다.
