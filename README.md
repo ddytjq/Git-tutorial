@@ -1,7 +1,7 @@
 # Github tutorial
 
 Github 사용에서 가장 기본이 되는 내용을 정리!!
-
+<b>
 ## 1. Git & Github 란
 
 Git이란 분산 버전 관리 시스템이다. 즉, 파일의 변경 내역을 계속 추적하도록 개발 된 소프트웨어다.
@@ -39,7 +39,7 @@ Github란 Git repository를 업로드 할 수 있는 웹사이트다.
 * 이 파일은 프로젝트에 대한 소개와 협력자들에게 유용한 추가 정보(소프트웨어 설치 방법, 코드 사용 방법 등)를 제공한다.
 * 배지(badges)를 통해 프로젝트의 현 상태를 알려주기도 한다.
 
-* README.md<br>
+* README.md
 
 ![Readme.md](https://dytjq.files.wordpress.com/2019/02/image-10.png?w=660)
 
@@ -48,7 +48,7 @@ Github란 Git repository를 업로드 할 수 있는 웹사이트다.
 * 특정 branch에서 작업이 완료되었을 때 가장 최근 작업이 무엇인지 알아보는 좋은 방법이다.
 * commit 메세지를 보고 변경이 된 이유를 확인한다.
 
-* Commit History<br>
+* Commit History
 
 ![Commit History](https://dytjq.files.wordpress.com/2019/02/image-11.png?w=660)
 
@@ -56,7 +56,7 @@ Github란 Git repository를 업로드 할 수 있는 웹사이트다.
 
 * 프로젝트를 협력하는 사람들이 현재 무슨 작업을 하고 있으며, 각각의 변경 사항에 대해 어떤 역활을 하고 있는지 확인이 가능하다.
 
-* Pull requests<br>
+* Pull requests
 
 ![Pull requests](https://dytjq.files.wordpress.com/2019/02/image-12.png?w=660)
 
@@ -66,7 +66,7 @@ Github란 Git repository를 업로드 할 수 있는 웹사이트다.
 * 프로젝트의 현재 issue의 목록을 보고 확인한다.
 
 
-* Issue 목록<br>
+* Issue 목록
 
 ![Issue 목록](https://dytjq.files.wordpress.com/2019/02/image-13.png?w=660)
 
@@ -94,33 +94,33 @@ Github란 Git repository를 업로드 할 수 있는 웹사이트다.
 
 1. fork : repository를 fork 할 장소를 선택한 다음 새로운 프로젝트 페이지로 이동한다.
 
-* ddytjq/AWS를 fork<br>
+* ddytjq/AWS를 fork
 
 ![ddytjq/AWS를 fork](https://dytjq.files.wordpress.com/2019/02/image-15.png?w=660)
 
 2. 파일 추가 : 프로젝트에 새로운 소스코드를 올리거나 파일을 추가한다.
 
-* fork 후 새로운 프로젝트에 파일 추가<br>
+* fork 후 새로운 프로젝트에 파일 추가
 
 ![fork 후 새로운 프로젝트에 파일 추가](https://dytjq.files.wordpress.com/2019/02/image-16.png?w=660)
 
 3. Pull request : 프로젝트의 fork를 변경했지만 초기 프로젝트에는 아직 반영되지 않았다. pull request를 통해 프로젝트 소유자의 허가를 받고 프로젝트를 변경한다.
 
-* 초기 프로젝트에 pull request<br>
+* 초기 프로젝트에 pull request
 
 ![초기 프로젝트에 pull request](https://dytjq.files.wordpress.com/2019/02/image-17.png?w=660)
 
-* pull request 전송 (merge 전)<br>
+* pull request 전송 (merge 전)
 
 ![pull request 전송 (merge 전)](https://dytjq.files.wordpress.com/2019/02/image-19.png?w=660)
 
 4.  Pull request 병합 : pull request 메세지와 commit이 나타나므로 병합을 한다. 그럼 원본 프로젝트로 포함된 새로운 merge commit이 추가된다.
 
-* pull request 메세지 merge<br>
+* pull request 메세지 merge
 
 ![pull request 메세지 merge](https://dytjq.files.wordpress.com/2019/02/image-20.png?w=660)
 
-* test.do 파일이 추가된 것을 확인<br>
+* test.do 파일이 추가된 것을 확인
 
 ![test.do 파일이 추가된 것을 확인](https://dytjq.files.wordpress.com/2019/02/image-21.png?w=660)
 
@@ -139,11 +139,11 @@ fork를 이용하지 않고 하나의 repository에서 직접 협력하는데 �
 * 파일을 확장하고 싶으면 가장 먼저 branch를 생성하는 것이다. branch를 통해 변경 내용을 별도로 보관할 수 있다.
 * master branch 와 생성 branch로 나누어져 있으며 branch에 따라 commit 구분이 가능하다.
 
-* test_branch 생성<br>
+* test_branch 생성
 
 ![test_branch 생성](https://dytjq.files.wordpress.com/2019/02/image-22.png?w=660)
 
-* branch에 따라 commit이 구분된 것을 확인<br>
+* branch에 따라 commit이 구분된 것을 확인
 
 ![branch에 따라 commit이 구분된 것을 확인](https://dytjq.files.wordpress.com/2019/02/image-23.png?w=660)
 
@@ -155,13 +155,15 @@ fork를 이용하지 않고 하나의 repository에서 직접 협력하는데 �
 * compare branch 에서 base branch로 요청을 하며 base branch에서 merge를 하면 된다.
 
 
-* base: master <- compare: test_branch 로 pull request<br>
+* base: master <- compare: test_branch 로 pull request
+
 ![base: master <- compare: test_branch 로 pull request](https://dytjq.files.wordpress.com/2019/02/image-25.png?w=660)
 
-* master branch 에서 merge<br>
+* master branch 에서 merge
+
 ![master branch 에서 merge](https://dytjq.files.wordpress.com/2019/02/image-26.png?w=660)
 
-* master branch에서 코드가 변경된 것을 확인<br>
+* master branch에서 코드가 변경된 것을 확인
 
 ![master branch에서 코드가 변경된 것을 확인](https://dytjq.files.wordpress.com/2019/02/image-28.png?w=660)
 
@@ -189,7 +191,7 @@ Github의 repository를 생성하고 구성하는 과정을 나타낸다.
 
 * 신규 리포지토리 생성은 owner와 name, public 과 private, organization을 결정 후 생성한다.
 
-* 각각의 설정 후 repository를 생성한다.<br>
+* 각각의 설정 후 repository를 생성한다.
 
 ![각각의 설정 후 repository를 생성한다.](https://dytjq.files.wordpress.com/2019/02/image-29.png?w=660)
 
@@ -197,7 +199,7 @@ Github의 repository를 생성하고 구성하는 과정을 나타낸다.
 
 * 공개 repository를 생성하면 협력자를 추가하지 않아도 fork하고 pull request를 보내면 된다. 하지만 비공개 repository를 생성하였거나 프로젝트에 정기적으로 함께 일하는 사람들이 있다면 협력자로 추가해야 한다.
 
-* Settings를 클릭 후 collaborators를 통해 협력자를 추가하면 된다.<br>
+* Settings를 클릭 후 collaborators를 통해 협력자를 추가하면 된다.
 
 ![Settings를 클릭 후 collaborators를 통해 협력자를 추가하면 된다.](https://dytjq.files.wordpress.com/2019/02/image-30.png?w=660)
 
@@ -210,3 +212,4 @@ Github의 repository를 생성하고 구성하는 과정을 나타낸다.
 
 * Github를 다른 소프트웨어에 연결이 가능하다. Github API를 다운로드 하여 repository 관련된 많은 작업을 자동화 할 수 있다.
 * Git repository 관리는 github가 제공하는 GUI를 통해 쉽게 관리가 가능하다.
+</b>
