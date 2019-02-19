@@ -1,7 +1,7 @@
 # Github tutorial
 
 Github 사용에서 가장 기본이 되는 내용을 정리!!
-<b>
+
 ## 1. Git & Github 란
 
 Git이란 분산 버전 관리 시스템이다. 즉, 파일의 변경 내역을 계속 추적하도록 개발 된 소프트웨어다.
@@ -212,4 +212,3 @@ Github의 repository를 생성하고 구성하는 과정을 나타낸다.
 
 * Github를 다른 소프트웨어에 연결이 가능하다. Github API를 다운로드 하여 repository 관련된 많은 작업을 자동화 할 수 있다.
 * Git repository 관리는 github가 제공하는 GUI를 통해 쉽게 관리가 가능하다.
-</b>
