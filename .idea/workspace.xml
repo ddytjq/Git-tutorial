@@ -16,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="678">
-                <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+              <first_editor relative-caret-position="439">
+                <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
               </first_editor>
               <second_editor />
             </state>
@@ -40,7 +40,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-1950" />
     <option name="y" value="-157" />
-    <option name="width" value="1390" />
+    <option name="width" value="1747" />
     <option name="height" value="1017" />
   </component>
   <component name="ProjectView">
@@ -97,18 +97,18 @@
       <workItem from="1550219186182" duration="2022000" />
       <workItem from="1550388445943" duration="155000" />
       <workItem from="1550568036226" duration="2218000" />
-      <workItem from="1550576844702" duration="872000" />
+      <workItem from="1550576844702" duration="1546000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5267000" />
+    <option name="totallyTimeSpent" value="5941000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1950" y="-157" width="1390" height="1017" extended-state="0" />
+    <frame x="-1950" y="-157" width="1747" height="1017" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17433235" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13782991" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -145,8 +145,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="678">
-            <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <first_editor relative-caret-position="439">
+            <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
           </first_editor>
           <second_editor />
         </state>
