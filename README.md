@@ -41,7 +41,7 @@ Github란 Git repository를 업로드 할 수 있는 웹사이트다.
 
 * README.md
 
-![Readme.md](https://dytjq.files.wordpress.com/2019/02/image-10.png?w=660)
+![Readme.md](https://dytjq.files.wordpress.com/2019/02/image-31.png?w=660)
 
 #### 2.2 Commit History
 
