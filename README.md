@@ -215,3 +215,4 @@ Github의 repository를 생성하고 구성하는 과정을 나타낸다.
 * Mac & Window 버전 Github : https://desktop.github.com
 ![Mac & Window 버전 Github](https://dytjq.files.wordpress.com/2019/03/image.png)
 * 자세한 정보는 https://services.github.com 참고
+* git-book : https://git-scm.com/book/ko/v2
