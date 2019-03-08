@@ -212,3 +212,6 @@ Github의 repository를 생성하고 구성하는 과정을 나타낸다.
 
 * Github를 다른 소프트웨어에 연결이 가능하다. Github API를 다운로드 하여 repository 관련된 많은 작업을 자동화 할 수 있다.
 * Git repository 관리는 github가 제공하는 GUI를 통해 쉽게 관리가 가능하다.
+* Mac & Window 버전 Github : ![https://desktop.github.com](https://desktop.github.com)
+![Mac & Window 버전 Github](https://dytjq.files.wordpress.com/2019/03/image.png)
+* 자세한 정보는 ![https://services.github.com](https://services.github.com) 참고
